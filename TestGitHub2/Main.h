@@ -6,6 +6,8 @@
 // Copyright (c) 1997-2002 Adam Hoult & Gary Simmons. All rights reserved.
 //-----------------------------------------------------------------------------
 
+// Mike wuz here
+
 #ifndef _MAIN_H_
 #define _MAIN_H_
 
